@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hemantbirare
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Ethical Hacking
+- 👀 I’m interested in React JS
+- 🌱 I want to become a Front End Developer
+- 
 
 <!---
 Hemantbirare/Hemantbirare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
