@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemantbirare
+- 👋 Hi, I’m @Hemant Birare
 - 👀 I’m interested in React JS
 - 🌱 I want to become a Front End Developer
 - 
